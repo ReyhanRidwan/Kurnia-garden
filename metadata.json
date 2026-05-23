@@ -1,0 +1,6 @@
+{
+  "name": "Kurnia Garden",
+  "description": "Website profesional Jasa Landscape Taman Kurnia Garden - Solusi desain, pembuatan, dan perawatan taman minimalis, tropis, kolav koi, vertical garden, dan hardscape terbaik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
